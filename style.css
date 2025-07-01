@@ -1,10 +1,7 @@
 body{
     background-color: black;
     color: ghostwhite;
-.libertinus-mono-regular {
-  font-family: "Libertinus Mono", monospace;
-  font-weight: 400;
-  font-style: normal;
-}
+    
+font-family: "Libertinus Mono", monospace;
 
 }
