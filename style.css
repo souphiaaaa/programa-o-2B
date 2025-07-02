@@ -2,4 +2,6 @@ body{
     background-color: black;
     color: ghostwhite;
     font-family: "Libertinus Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
 }
